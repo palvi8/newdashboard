@@ -1,0 +1,84 @@
+body{
+font-family: Open Sans,arial,sans-serif;
+font-size: 13px;
+line-height: 1.42857;
+color: #555;
+}
+
+.lineborder{
+border-bottom:2px solid ligthgrey;
+}
+ .rating{
+    border-bottom: 1px solid #46c4ba;
+    background-color: #bbe1de;
+    padding:5px 5px 5px 5px
+}
+.rightborder{
+    border-right:1px solid grey;
+    margin:0px 10px 0px 10px;
+}
+.rightborder1{
+    border-right:1px solid #eee;
+    margin:0px 10px 0px 10px;
+}
+.leftborder{
+     border-left:1px solid grey;
+    padding:0px 10px 0px 10px;
+}
+.bottomborder{
+    border-bottom:2px solid lightgrey;
+    margin:0px 30px 0px 30px
+}
+.topborder{
+     border-bottom:2px solid lightgrey;
+    padding:30px 0px 30px 0px;
+}
+.leftborder1{
+     border-left:2px solid lightgrey;
+    padding:0px 10px 0px 10px;
+}
+.leftborder2{
+     border-left:2px solid lightgrey;
+    padding:0px 10px 0px 10px;
+}
+.headerborder{
+     border-bottom:1px solid lightgrey;
+   
+}
+    .sec2heading{
+        font-size:20px;
+        color: #4a4a4a;
+        font-weight: 500;
+        line-height: 1.1;
+    }
+
+    .myInput {
+  width: 100%;
+  font-size: 14px;
+  padding: 5px 5px ;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+  background-color: #eee;
+}
+#drop{
+     width: 20%;
+     font-size: 16px;
+     margin-bottom: 12px;
+     
+}
+    a{
+        text-decoration:none;
+        color:grey;
+
+    }
+ button:hover {
+        background-color:white;
+    }
+    .bottomborder1{
+    border-bottom:2px solid lightgrey;
+     margin:0px 10px 0px 10px
+}
+    .sidenavborder{
+         border-bottom:2px solid #1e282c;
+         padding:0px 5px 0px 5px;
+    }
